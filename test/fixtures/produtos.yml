@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  cor: MyString
+  tamanho: MyString
+  posicao_estocada: MyString
+  preco_compra: 1.5
+  preco_venda: 1.5
+  descricao: MyText
+  fornecerdor: MyString
+
+two:
+  nome: MyString
+  cor: MyString
+  tamanho: MyString
+  posicao_estocada: MyString
+  preco_compra: 1.5
+  preco_venda: 1.5
+  descricao: MyText
+  fornecerdor: MyString
